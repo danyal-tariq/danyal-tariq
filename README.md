@@ -44,8 +44,11 @@
 <br />
 <br />
 
+<div>
+ <img align="top" alt="Danyal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danyal-tariq&show_icons=true&hide_border=true&hide=contribs&show=prs_merged&theme=github_dark_dimmed&hide_rank=true&include_all_commits=true" />
+ <img align="bottom" alt="Danyal's Github Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyal-tariq&langs_count=8&hide=c,c%2B%2B&layout=compact"/>
+</div>
 
-<img align="left" alt="Umer Inayat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danyal-tariq&show_icons=true&hide_border=true" />
 
 [website]: https://danyaltariq.vercel.app
 [linkedin]: https://linkedin.com/in/danyaltariq43

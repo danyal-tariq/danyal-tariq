@@ -33,7 +33,6 @@
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)

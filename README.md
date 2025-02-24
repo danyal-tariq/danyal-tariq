@@ -34,6 +34,7 @@
 [![Sass](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)

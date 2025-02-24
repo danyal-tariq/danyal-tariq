@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working as a Full Stack Engineer in Phoenix Group 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Expand Knowlegde base to grasp and learn Kubernetes, Devops, Cloudops.
+- 🥅 2025 Goals: Expand Knowledge base to grasp and learn Kubernetes, Devops, Cloudops.
 - ⚡ Fun fact: I love to play RTS games. Red Alert FTW!
 - 🎮 Passionate about game development as a hobby, creating immersive experiences with Unity  
 

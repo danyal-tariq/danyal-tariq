@@ -27,6 +27,8 @@
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=k8s)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://skillicons.dev)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
